@@ -1,0 +1,175 @@
+.top{
+    height: 30px;
+    text-align: center;
+    color: aliceblue;
+    font-size: large;
+    font-style: normal;
+    background-color: blue;
+}
+.cont img{
+    padding: 0px;
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+.cont{
+    padding: 0px;
+    width: 992px;
+    height: 550px;
+    
+}
+.id{
+    background: black;
+    color: green;
+    width: 420px;
+    height: 200px;
+    float: right; 
+    margin-top: -42%;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+   }
+  
+  .app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 500px;
+  }
+  .Black{
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+    width: 60px;
+    height: 50px;
+  }
+  .chg{
+    float: left;
+  }
+  .White{
+    border-radius: 10%;
+    background-color: green;
+    color: black;
+    width: 60px;
+    height: 50px;
+  }
+  
+  .nothing{
+    display: none;
+  }
+.active {
+    background-color: green;
+}
+.head{
+    background-color: rgb(0, 119, 255);
+    width: 420px;
+    height: 20px;
+    float: right;
+    margin-top: -28%;
+    text-align: center;
+    color: wheat;
+    border-radius: 5%;
+}
+.compo{
+    width: 420px;
+    height: 180px;
+    float: right;
+    margin-top: -26%;
+}
+.n1{
+    width: 50px;
+    height: 50px;
+}
+
+.i1{
+    height: 25px;
+    border-radius: 10%;
+    color: aliceblue;
+    margin-left: 1%;
+    margin-top: -1.7;
+}
+.i2{
+    height: 25px;
+    border-radius: 10%;
+    color: aliceblue;
+    margin-left: 8%;
+    margin-top: -2.1%;
+}
+.i3{
+    height: 25px;
+    border-radius: 10%;
+    color: aliceblue;
+    margin-left: 15%;
+    margin-top: -2%;
+}
+.w{
+    border-radius: 10%;
+    background-color: aliceblue;
+    color: black;
+    width: 60px;
+    height: 50px;
+}
+.i4{
+    height: 25px;
+    border-radius: 10%;
+    color: aliceblue;
+    margin-left: 22%;
+    margin-top: -1.9%;
+}
+.i5{
+    height: 25px;
+    border-radius: 10%;
+    color: aliceblue;
+    margin-left: 29%;
+    margin-top: -1.9%;
+}
+.red{
+    border-radius: 10%;
+    background-color: red;
+    color: black;
+    width: 60px;
+    height: 50px;
+}
+.Blue{
+    border-radius: 10%;
+    background-color: aqua;
+    width: 80px;
+    height: 40px;
+}
+.RE{
+    border-radius: 10%;
+    background-color: red;
+    color: black;
+    width: 60px;
+    height: 50px;
+}
+.rest{
+    margin-top: -17%;
+    width: 420px;
+    height: 180px;
+    float: right;    
+}
+.p{
+    border-radius: 10%;
+    background-color: purple;
+    color: black;
+    width: 60px;
+    height: 50px;
+}
+.gre{
+    border-radius: 10%;
+    background-color: gray;
+    color: black;
+    width: 60px;
+    height: 50px;
+}
+.y{
+    border-radius: 10%;
+    background-color: yellow;
+    color: black;
+    width: 60px;
+    height: 50px;
+}
